@@ -20,7 +20,7 @@
     "expo-asset": "~8.1.5",
     "express": "^4.17.1",
     "formik": "^2.1.4",
-    "moment": "^2.25.3",
+    "moment": "^2.29.2",
     "mongodb-stitch-react-native-sdk": "^4.8.0",
     "mysql2": "^2.1.0",
     "mysqli": "^3.0.11",
